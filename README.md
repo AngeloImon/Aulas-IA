@@ -13,4 +13,14 @@
 #### - Visualização dos resultados por meio de gráficos e interpretações finais.
 ### O modelo resultante é capaz de prever com precisão a espécie de novas amostras com base em atributos como comprimento e largura de pétalas e sépalas.
 
+## Engenharia de Dados
+### Executa o processo de engenharia de dados aplicando transformações, agrupamentos e visualizações com base em um conjunto de dados fictício (funcionários).
+#### Este notebook inclui:
+#### - Criação e manipulação de DataFrames com pandas.
+#### - Conversão de tipos, tratamento de valores nulos e criação de colunas derivadas.
+#### - Aplicação de filtros condicionais e agrupamentos por atributos específicos.
+#### - Visualização de métricas e distribuições utilizando seaborn e matplotlib.
+#### - Análise exploratória e refinamento da base para uso em modelos futuros.
+### Ideal para demonstrar conceitos fundamentais de limpeza, estruturação e análise inicial de dados em projetos de IA ou Ciência de Dados.
+
 
