@@ -1,5 +1,6 @@
+> 📘 Este README está disponível : [Português](README.md) | [English](README.en.md)
 
-# 🤖 Aulas-IA (AI Lessons)
+# Aulas-IA (AI Lessons)
 A collection of notebooks developed during my Artificial Intelligence classes.
 
 ---
