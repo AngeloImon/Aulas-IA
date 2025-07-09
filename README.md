@@ -1,7 +1,7 @@
 # Aulas-IA
 Um pouco do que deenvolvi durante as aulas de Inteligência Artificial.
 
-## Iris DataSet
+## 1. Iris DataSet
 Treina um modelo de classificação supervisionada utilizando o dataset Iris.
 ### O processo inclui:
 - Carregamento e visualização dos dados com Pandas e Matplotlib.
@@ -12,7 +12,7 @@ Treina um modelo de classificação supervisionada utilizando o dataset Iris.
 - Visualização dos resultados por meio de gráficos e interpretações finais.
 ### O modelo resultante é capaz de prever com precisão a espécie de novas amostras com base em atributos como comprimento e largura de pétalas e sépalas.
 
-## Engenharia de Dados
+## 2. Engenharia de Dados
 Executa o processo de engenharia de dados aplicando transformações, agrupamentos e visualizações com base em um conjunto de dados fictício (funcionários).
 ### Este notebook inclui:
 - Criação e manipulação de DataFrames com pandas.
