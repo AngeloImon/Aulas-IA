@@ -1,7 +1,9 @@
 > 📘 This README is available in: [Português](README.md) | [English](README.en.md)
 
 # Aulas-IA
-Um pouco do que deenvolvi durante as aulas de Inteligência Artificial.
+Um pouco do que desenvolvi durante as aulas de Inteligência Artificial.
+
+---
 
 ## 1. Iris DataSet
 Executa uma análise exploratória completa do Iris Dataset com foco em visualizações e aplicação de modelo de classificação supervisionada.
@@ -16,6 +18,8 @@ Executa uma análise exploratória completa do Iris Dataset com foco em visualiz
 - Simulação de predição de uma nova amostra com base em atributos morfológicos.
 ### Ideal para ilustrar todo o fluxo de preparação e modelagem em problemas de classificação multiclasse com dados estruturados.
 
+---
+
 ## 2. Engenharia de Dados
 Realiza transformações avançadas de engenharia de dados em um conjunto sintético com variáveis relacionadas à saúde, visando preparar os dados para futuras análises ou modelagem.
 ### Este notebook inclui:
@@ -27,6 +31,8 @@ Realiza transformações avançadas de engenharia de dados em um conjunto sinté
 - Transformação logarítmica de variáveis assimétricas para normalização estatística.
 - Visualização comparativa dos dados originais e transformados por meio de histogramas.
 ### Ideal para ilustrar boas práticas de preparação de dados em contextos biomédicos e mostrar como diferentes técnicas impactam a estrutura informacional do dataset.
+
+---
 
 ## 3. Perceptron
 Aplica o algoritmo de classificação supervisionada Perceptron em conjunto com um classificador MLP (Perceptron de múltiplas camadas) para problemas binários reais e sintéticos.
@@ -41,6 +47,8 @@ Aplica o algoritmo de classificação supervisionada Perceptron em conjunto com 
 - Avaliação dos modelos com accuracy_score e classification_report.
 ### Ideal para entender os fundamentos da aprendizagem supervisionada linear, testar variações de parâmetros e aplicar redes neurais simples em problemas reais.
 
+---
+
 ## 4. Kmeans
 Aplica o algoritmo K-Means para realizar agrupamento não supervisionado em dados químicos do Wine Dataset, buscando padrões naturais entre diferentes cultivares.
 ### Este notebook inclui:
@@ -52,6 +60,8 @@ Aplica o algoritmo K-Means para realizar agrupamento não supervisionado em dado
 - Visualização dos clusters obtidos via scatter plot em 2D.
 - Comparação opcional com os rótulos reais das amostras para fins ilustrativos.
 ###Ideal para explorar conceitos de clustering aplicado em dados reais, visualização com redução dimensional e avaliação de agrupamentos por coesão e separação.
+
+---
 
 ## 5. Prova 1
 Executa um pipeline completo de análise de dados e aprendizado de máquina com base no dataset 'Marketing Campaign', integrando etapas de pré-processamento, clustering e classificação supervisionada.
@@ -68,6 +78,8 @@ Executa um pipeline completo de análise de dados e aprendizado de máquina com 
 - Avaliação do desempenho com métricas de acurácia e relatório de classificação.
 ### Ideal para consolidar conceitos de clustering aplicado em dados reais, engenharia de atributos temporais, uso combinado de aprendizagem supervisionada e não supervisionada, e técnicas de visualização avançada.
 
+---
+
 ## 6. Prova 2
 Explora técnicas fundamentais de processamento de imagem usando OpenCV em ambiente Google Colab, com aplicação em imagens reais e sintéticas.
 ### Este notebook inclui:
@@ -80,6 +92,8 @@ Explora técnicas fundamentais de processamento de imagem usando OpenCV em ambie
 - Limiarização global e adaptativa para segmentação binária.
 - Detecção de bordas com Canny e extração de contornos com cv2.findContours.
 ### Ideal para introduzir conceitos práticos de visão computacional e preparar imagens para tarefas como segmentação, reconhecimento e análise visual em projetos de IA.
+
+---
 
 ## 7. Classificador Titanic
 Executa uma classificação supervisionada para prever a sobrevivência de passageiros a partir do Titanic Dataset, utilizando técnicas estatísticas e modelos de machine learning.
