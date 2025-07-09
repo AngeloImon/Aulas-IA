@@ -1,6 +1,5 @@
 # Aulas-IA
-
-# Um pouco do que deenvolvi durante as aulas de Inteligência Artificial.
+##### Um pouco do que deenvolvi durante as aulas de Inteligência Artificial.
 
 ## Iris DataSet
 ### Treina um modelo de classificação supervisionada utilizando o dataset Iris.
