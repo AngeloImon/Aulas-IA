@@ -1,4 +1,4 @@
-> 📘 Este README está disponível : [Português](README.md) | [English](README.en.md)
+> 📘 Este README está disponível em: [Português](README.md) | [English](README.en.md)
 
 # Aulas-IA (AI Lessons)
 A collection of notebooks developed during my Artificial Intelligence classes.
